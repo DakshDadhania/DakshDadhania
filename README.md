@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dakshdadhania@gmail.com**
 
-- 📄 Know about my experiences [https://dakshdadhania.github.io/](https://dakshdadhania.github.io/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/daksh-dadhania-319146137/)
 
 - ⚡ Fun fact **I love to play video games and listen to songs all day. Also I like to solve CTFs ( Capture the flag ), interested in Stocks as well.**
 
