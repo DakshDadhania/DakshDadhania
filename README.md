@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://dakshdadhania.github.io/)
+[![MasterHead]((https://user-images.githubusercontent.com/63968989/183408903-33aca2b9-ee4c-461d-9560-9919132dd7bf.png))](https://dakshdadhania.github.io/)
 <h1 align="center">Hi 👋, I'm Daksh Dadhania</h1>
 <h3 align="center">A passionate Web Developer, Competitive Programmer, Cyber Security Enthusiast</h3>
 
